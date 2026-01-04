@@ -1,4 +1,4 @@
-# cclabsresume1 ## 🖥️ IT Support & Technical Skills
+# 🖥️ IT Support & Technical Skills
 
 ### 🔐 Account & Access Management
 - Password resets and account unlocks
