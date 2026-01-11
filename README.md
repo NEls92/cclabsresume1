@@ -1,57 +1,72 @@
-# 🖥️ IT Support & Technical Skills
+🖥️ Active Directory & Windows Server Lab (Resume Project)
 
-### 🔐 Account & Access Management
-- Password resets and account unlocks
-- User account creation, modification, and deactivation
-- Basic access control and permission management
-- Troubleshooting login and authentication issues
+📹 Video Demonstration (Hands-On Lab):
+https://www.youtube.com/watch?v=-I4E_Kx8MUg&t=309s
 
----
+This repository demonstrates hands-on experience with Active Directory, Windows Server administration, and networking fundamentals using a virtualized lab environment.
 
-### 🎫 Ticketing Systems & SLAs
-- Created and managed ticketing systems using **osTicket**
-- Logged, tracked, prioritized, and resolved support tickets
-- Defined and applied **Service Level Agreements (SLAs)** based on issue priority
-- Documented resolutions and escalated issues when appropriate
+🔧 Lab Objectives
 
----
+Deploy and configure Windows Server as a Domain Controller
 
-### 💻 Hardware Support
-- Installed and updated hardware components
-- Performed hardware diagnostics and basic repairs
-- Troubleshot hardware-related issues in a structured manner
-- Assisted with workstation setup and upgrades
+Create and manage Active Directory users, OUs, and admin accounts
 
----
+Configure a virtual network (VNET) for domain communication
 
-### 🧩 Software Support
-- Installed, configured, and updated software applications
-- Diagnosed and resolved common software issues
-- Ensured systems were properly configured for end users
-- Followed best practices for software deployment
+Join a Windows client machine to the domain
 
----
+Validate authentication using domain credentials
 
-### 🖥️ Virtualization & Remote Access
-- Created and managed **virtual machines** for lab and support environments
-- Configured and accessed systems using **Remote Desktop Protocol (RDP)**
-- Used virtual environments to simulate real-world IT scenarios
-- Demonstrated secure and effective remote troubleshooting techniques
+🗂️ Active Directory & Domain Administration
 
-📹 **Video Demonstration (Coming Soon):**  
-Creation of a virtual machine and remote access using RDP  
-*(YouTube link will be added here)*
+Installed Active Directory Domain Services (AD DS)
 
----
+Promoted a Windows Server VM to Domain Controller
 
-### 🌐 Networking Fundamentals
-- Understanding of IPv4 and IPv6 addressing
-- Basic subnetting concepts
-- Familiarity with networking-related troubleshooting steps
+Created:
 
----
+Organizational Units (OUs)
 
-### 📝 Documentation & Communication
-- Created clear IT documentation and lab walkthroughs
-- Communicated technical information in an easy-to-understand manner
-- Maintained organized records of support activities
+Domain user accounts
+
+Domain administrator account
+
+Assigned domain-level administrative privileges
+
+Verified successful domain login from a client VM
+
+🖥️ Virtualization & Networking
+
+Deployed multiple virtual machines
+
+Configured both systems to operate on the same virtual network
+
+Ensured proper IP configuration and connectivity
+
+Used Remote Desktop Protocol (RDP) for management
+
+🔐 Account & Access Management
+
+Created and managed domain user accounts
+
+Applied administrative permissions using Active Directory
+
+Demonstrated authentication and access control best practices
+
+🎯 Skills Demonstrated
+
+Active Directory & Group Policy fundamentals
+
+Windows Server administration
+
+Virtualization (lab environment)
+
+Networking fundamentals (DNS, VNETs)
+
+IT support and troubleshooting
+
+📝 Notes
+
+Lab completed in a controlled virtual environment
+
+Project designed to simulate real-world enterprise IT tasks
