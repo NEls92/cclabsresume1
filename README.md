@@ -1,4 +1,4 @@
-🖥️ Active Directory & Windows Server Lab (Resume Project)
+🖥️ Active Directory & Windows Server 
 
 📹 Video Demonstration (Hands-On Lab):
 https://www.youtube.com/watch?v=-I4E_Kx8MUg&t=309s
